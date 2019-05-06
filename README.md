@@ -58,22 +58,22 @@ La macchina andrà a svolgere diverse funzioni, principalmente di comunicazione 
 
 ### Video: 
 
-Test sistema di gestione delle curve tramite servo:
+Test sistema di gestione delle curve tramite servo:  
 https://www.dropbox.com/s/mpuvc6oca1bey50/1_vecchio_sistema_curva.mp4?dl=0
 
-Test sistema di gestione delle curve tramite velocità differenti sulle ruote:
+Test sistema di gestione delle curve tramite velocità differenti sulle ruote:  
 https://www.dropbox.com/s/kdcqv2tspdruida/2_nuovo_sistema_curva.mp4?dl=0
 
-Test inseguitore di linea tramite infrarossi:
+Test inseguitore di linea tramite infrarossi:  
 https://www.dropbox.com/s/6vckf1oelf2ck3c/3_infrarossi_curva.mp4?dl=0
 
-Test gestione velocità tramite ultrasuoni: 
+Test gestione velocità tramite ultrasuoni:  
 https://www.dropbox.com/s/164yps8jlzu4az5/4_sonar_stop.mp4?dl=0
 
-Prototipo finale con tracciato, gestione ostacolo fisso:
+Prototipo finale con tracciato, gestione ostacolo fisso:  
 https://www.dropbox.com/s/opallh4xtinxfd5/5_ostacolo_singolo.mp4?dl=0
 
-Prototipo finale con tracciato, gestione doppio ostacolo fisso:
+Prototipo finale con tracciato, gestione doppio ostacolo fisso:  
 https://www.dropbox.com/s/qxkiae7qwjshndc/6_doppio_ostacolo.mp4?dl=0
 
 ### Librerie aggiuntive:
